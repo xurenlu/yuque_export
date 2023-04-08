@@ -1,0 +1,6 @@
+{
+    "TOKEN": "your-yuque-token",                                
+    "USER_AGENT": "yuque_export",  
+    "BASE_URL": "https://your-domain.yuque.com/api/v2",
+    "DATA_PATH": "data"                             
+}
